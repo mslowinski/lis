@@ -1,0 +1,1 @@
+module.exports.findLis = require('./src/findLis');
